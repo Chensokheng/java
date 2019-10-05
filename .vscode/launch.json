@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sleep",
+            "request": "launch",
+            "mainClass": "sleep",
+            "projectName": "thread_3c6c1b88"
+        }
+    ]
+}
